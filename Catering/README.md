@@ -26,7 +26,7 @@
 
 ---
 
-## GitHub Topics
+## Теги
 
 `python` `data-analysis` `eda` `data-visualization` `pandas` `seaborn` `phik` `market-research` `restaurant-business`
 
