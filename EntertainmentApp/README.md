@@ -23,7 +23,7 @@
 *   **`matplotlib`** — визуализация данных.
 *   **`statsmodels`** — статистические тесты (расчет размера выборки, Z-тест для пропорций).
 
-## Topics
+## Теги
 
 `data-analysis` `data-science` `a-b-testing` `statistics` `hypothesis-testing` `pandas` `numpy` `statsmodels` `product-analytics` `user-engagement`
 
