@@ -23,7 +23,7 @@
 * **`numpy`** — математические вычисления.
 * **`matplotlib`** и **`seaborn`** — визуализация данных (построение графиков динамики, распределений и выбросов).
 
-## Topics
+## Теги
 
 `data-analysis` `data-science` `pandas` `numpy` `matplotlib` `seaborn` `venture-capital` `startups` `investment-analysis` `eda`
 
